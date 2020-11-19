@@ -1,0 +1,13 @@
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\idade de um artista famoso\bin\Debug\netcoreapp3.1\idade de um artista famoso.exe
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\idade de um artista famoso\bin\Debug\netcoreapp3.1\idade de um artista famoso.deps.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\idade de um artista famoso\bin\Debug\netcoreapp3.1\idade de um artista famoso.runtimeconfig.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\idade de um artista famoso\bin\Debug\netcoreapp3.1\idade de um artista famoso.runtimeconfig.dev.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\idade de um artista famoso\bin\Debug\netcoreapp3.1\idade de um artista famoso.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\idade de um artista famoso\bin\Debug\netcoreapp3.1\idade de um artista famoso.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\idade de um artista famoso\obj\Debug\netcoreapp3.1\idade de um artista famoso.csprojAssemblyReference.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\idade de um artista famoso\obj\Debug\netcoreapp3.1\idade de um artista famoso.AssemblyInfoInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\idade de um artista famoso\obj\Debug\netcoreapp3.1\idade de um artista famoso.AssemblyInfo.cs
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\idade de um artista famoso\obj\Debug\netcoreapp3.1\idade de um artista famoso.csproj.CoreCompileInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\idade de um artista famoso\obj\Debug\netcoreapp3.1\idade de um artista famoso.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\idade de um artista famoso\obj\Debug\netcoreapp3.1\idade de um artista famoso.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\idade de um artista famoso\obj\Debug\netcoreapp3.1\idade de um artista famoso.genruntimeconfig.cache
